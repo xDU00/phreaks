@@ -60,6 +60,7 @@ const members: Member[] = [
     name: "Deadnaut",
     role: "member",
     skills: ["crypto"],
+    blog: "https://deadnaut.me/",
     linkedin: "https://www.linkedin.com/in/mazenelheni/",
     github: "https://github.com/Deadnaut0",
     image: "https://deadnaut.me/img/author.gif"
