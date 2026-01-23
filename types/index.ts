@@ -1,7 +1,6 @@
 export interface Member {
     name: string;
     role: string;
-    institution: string;
     skills: string[];
     github?: string;
     blog?: string;
